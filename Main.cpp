@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 		// Вектор задан в коде
-		Vector3D A(1, 2, 3);
+		Vector3D A(1, 2, 3); 
 		// Вектор читается из cin
 		Vector3D B;
 		cin >> B;
