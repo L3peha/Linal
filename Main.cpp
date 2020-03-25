@@ -1,7 +1,7 @@
-#include "source/Vector.h"
+#include "include/Vector.h"
 #include <iostream>
 #include <string>
-#include "source/Matrix.h"
+#include "include/Matrix.h"
 
 using namespace std;
 
